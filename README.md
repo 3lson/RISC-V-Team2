@@ -4,9 +4,6 @@
   <a href="https://riscv.org/">
     <img src="https://img.shields.io/badge/ISA-RISC--V%20RV32I-green.svg" alt="RISC-V RV32I">
   </a>
-  <a href="https://www.intel.com/content/www/us/en/programmable/products/fpga/de10-lite.html">
-    <img src="https://img.shields.io/badge/Board-DE10--Lite-blue.svg" alt="DE10-Lite FPGA Board">
-  </a>
   <a href="https://www.verilog.com/">
     <img src="https://img.shields.io/badge/HDL-Verilog-yellow.svg" alt="Verilog HDL">
   </a>
