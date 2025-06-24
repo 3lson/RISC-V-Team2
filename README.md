@@ -1,5 +1,29 @@
 # RISC-V-RV32I-Processor
 
+<p align="left">
+  <a href="https://riscv.org/">
+    <img src="https://img.shields.io/badge/ISA-RISC--V%20RV32I-green.svg" alt="RISC-V RV32I">
+  </a>
+  <a href="https://www.intel.com/content/www/us/en/programmable/products/fpga/de10-lite.html">
+    <img src="https://img.shields.io/badge/Board-DE10--Lite-blue.svg" alt="DE10-Lite FPGA Board">
+  </a>
+  <a href="https://www.verilog.com/">
+    <img src="https://img.shields.io/badge/HDL-Verilog-yellow.svg" alt="Verilog HDL">
+  </a>
+  <a href="https://www.veripool.org/wiki/verilator">
+    <img src="https://img.shields.io/badge/Simulator-Verilator-lightgrey.svg" alt="Verilator">
+  </a>
+  <a href="https://www.gnu.org/software/make/">
+    <img src="https://img.shields.io/badge/Build-Make-orange.svg" alt="Make Build Tool">
+  </a>
+  <a href="https://plotly.com/python/">
+    <img src="https://img.shields.io/badge/Graphing-Plotly-blueviolet.svg" alt="Plotly for Graphs">
+  </a>
+  <a href="https://gtkwave.sourceforge.net/">
+    <img src="https://img.shields.io/badge/Debugging-GTKWave-purple.svg" alt="GTKWave">
+  </a>
+</p>
+
 This project was done as a team of 4.
 We are team 2 (H.A.D.E.S), each with distinct roles for the coursework (we had different roles for lab4, single cycle, pipelining, cache, branch prediction):
   - Elson Tho: completing full RISC-V instruction set by editing the control unit, ALU & register file, instruction memory, testing & verification, MUX, pipelining, f1_lights, made the new top file for the pipeline branch
